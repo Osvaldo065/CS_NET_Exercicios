@@ -1,0 +1,15 @@
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\bin\Debug\net8.0\Arvore_Familia.exe
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\bin\Debug\net8.0\Arvore_Familia.deps.json
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\bin\Debug\net8.0\Arvore_Familia.runtimeconfig.json
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\bin\Debug\net8.0\Arvore_Familia.dll
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\bin\Debug\net8.0\Arvore_Familia.pdb
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\obj\Debug\net8.0\Arvore_Familia.GeneratedMSBuildEditorConfig.editorconfig
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\obj\Debug\net8.0\Arvore_Familia.AssemblyInfoInputs.cache
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\obj\Debug\net8.0\Arvore_Familia.AssemblyInfo.cs
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\obj\Debug\net8.0\Arvore_Familia.csproj.CoreCompileInputs.cache
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\obj\Debug\net8.0\Arvore_Familia.sourcelink.json
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\obj\Debug\net8.0\Arvore_Familia.dll
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\obj\Debug\net8.0\refint\Arvore_Familia.dll
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\obj\Debug\net8.0\Arvore_Familia.pdb
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\obj\Debug\net8.0\Arvore_Familia.genruntimeconfig.cache
+c:\C# -Dio ME\CS_NET_Exercicios\Arvore_Familia\Arvore_Familia\obj\Debug\net8.0\ref\Arvore_Familia.dll
