@@ -1,0 +1,15 @@
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\bin\Debug\net8.0\Calcular_Salario.exe
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\bin\Debug\net8.0\Calcular_Salario.deps.json
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\bin\Debug\net8.0\Calcular_Salario.runtimeconfig.json
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\bin\Debug\net8.0\Calcular_Salario.dll
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\bin\Debug\net8.0\Calcular_Salario.pdb
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\obj\Debug\net8.0\Calcular_Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\obj\Debug\net8.0\Calcular_Salario.AssemblyInfoInputs.cache
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\obj\Debug\net8.0\Calcular_Salario.AssemblyInfo.cs
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\obj\Debug\net8.0\Calcular_Salario.csproj.CoreCompileInputs.cache
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\obj\Debug\net8.0\Calcular_Salario.sourcelink.json
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\obj\Debug\net8.0\Calcular_Salario.dll
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\obj\Debug\net8.0\refint\Calcular_Salario.dll
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\obj\Debug\net8.0\Calcular_Salario.pdb
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\obj\Debug\net8.0\Calcular_Salario.genruntimeconfig.cache
+C:\C# -Dio ME\CS_NET_Exercicios\Calculadora_Salarios\Calcular_Salario\obj\Debug\net8.0\ref\Calcular_Salario.dll
